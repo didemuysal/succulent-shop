@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Succulent Shop</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="this_field_is_required">This field is required.</string>
+    <string name="identifier_is_too_short">Identifier is too short.</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_account">Do You Have An Account</string>
+    <string name="email_required">Email is required</string>
+    <string name="invalid_email">Email is invalid, try another</string>
+    <string name="password_cannot_be_empty">Password can not be empty</string>
+    <string name="password_short">Password is too short</string>
+    <string name="password_long">Password is too long</string>
+    <string name="password_rules">Password must contain, upper lower, digit and special character</string>
+    <string name="sign_in">Sign Up</string>
+    <string name="username_rules">Please add more letter or digit</string>
+    <string name="required_username">Username is required</string>
+    <string name="username_short">Username is too short</string>
+    <string name="username_long">Username is too long</string>
+    <string name="username_none">"Username can not be empty"</string>
+</resources>
